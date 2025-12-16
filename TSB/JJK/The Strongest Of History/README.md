@@ -2,7 +2,7 @@
 
 ---
 
-## i.am.an.agent
+## i.am.an.agent/Kade
 - **Lightning Module**
 - **Trove**
 
