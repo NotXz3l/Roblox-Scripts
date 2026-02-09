@@ -18,4 +18,4 @@
 
 ---
 
-> TAKEN DOWN, REWORK SOON - Xz3l
+> THIS IS OUTDATED, GO TO "King of Curses" FOR THE NEW SCRIPT!
